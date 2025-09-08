@@ -16,8 +16,8 @@ STEP-4: Else subtract the key from the plain text.
 STEP-5: Display the cipher text obtained above.
 
 ## PROGRAM:
-### NAME:ARCHANA T
-### REGISTER NUMBER:21222320013
+### NAME: ARCHANA T
+### REGISTER NUMBER: 21222320013
 ```
 #include <stdio.h>
 
